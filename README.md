@@ -29,3 +29,6 @@ Contexto
 Atualmente, muitos casais utilizam diferentes ferramentas para organizar um casamento, como aplicativos de mensagens, planilhas e anotações separadas. Essa divisão das informações gera desorganização, falhas na comunicação e dificuldade para acompanhar todas as etapas do planejamento.
 
 Diante dessa necessidade, surgiu a proposta do Planejador de Vidas, "Nupcia", um aplicativo que centraliza tarefas, orçamento, convidados e fornecedores em uma única plataforma, tornando o processo de organização mais eficiente, prático e seguro.
+
+Autor:
+Miguel Silva
