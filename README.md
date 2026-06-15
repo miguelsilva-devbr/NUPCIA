@@ -32,3 +32,4 @@ Diante dessa necessidade, surgiu a proposta do Planejador de Vidas, "Nupcia", um
 
 Autor:
 Miguel Silva
+link: https://www.figma.com/make/k71dIU9I0eRZF7YjY2PDbe/FinMind-AI-Financial-App-Design?p=f&t=yDFgDoCGIdpi5tge-0&fullscreen=1
